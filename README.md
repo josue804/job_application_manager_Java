@@ -19,8 +19,8 @@ _I created two data structures to manage this program's data: _
 
 ## Technologies Used
 
-*_IntelliJ IDEA 14.1.3_
-*_Written in Java_
+* _IntelliJ IDEA 14.1.3_
+* _Written in Java_
 
 ### Legal
 

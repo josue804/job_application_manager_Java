@@ -13,7 +13,7 @@ _I created two data structures to manage this program's data: _
 ## Setup
 
 * `$ git clone` this repository
-* `cd job_application_manager_Java/src/com/company/`
+* `$ cd job_application_manager_Java/src/com/company/`
 * `$ javac Main.java` to compile program
 * `$ java Main` to run program
 

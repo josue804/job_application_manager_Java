@@ -7,8 +7,8 @@
 ## Description
 
 _I created two data structures to manage this program's data: 
-  \t 1. A binary search tree where each node is an application and its value is determined by how well it scored based on the manager's specifications.
-  \t 2. A linear linked list of linear linked lists where each node of the pimary LLL is a type of job application (e.g. Software Engineer application). Each one of these nodes then points to the questions that the manager adds to the applicaion--each one of these questions also has a priority, which helps in ranking applicants._
+  &emsp;1. A binary search tree where each node is an application and its value is determined by how well it scored based on the manager's specifications.
+  &emsp;2. A linear linked list of linear linked lists where each node of the pimary LLL is a type of job application (e.g. Software Engineer application). Each one of these nodes then points to the questions that the manager adds to the applicaion--each one of these questions also has a priority, which helps in ranking applicants._
 
 ## Setup
 

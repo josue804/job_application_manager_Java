@@ -1,0 +1,17 @@
+Name: 
+
+Phone: 
+
+Address: 
+
+Email: 
+10
+Are you familiar with Bootstrap: 
+10
+Do you have a Web Development Portfolio: 
+8
+Are you familiar with Ruby: 
+5
+Are you a good team player: 
+2
+Do you wear glasses: 

@@ -1,0 +1,17 @@
+Name: 
+
+Phone: 
+
+Address: 
+
+Email: 
+10
+Can you design a high-performance storage system: 
+9
+Are you a good team player: 
+8
+Do you have experience in Software Engineering: 
+6
+Can you upkeep a high-performance storage system: 
+5
+Do you enjoy problem-solving: 

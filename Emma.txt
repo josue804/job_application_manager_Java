@@ -1,0 +1,19 @@
+poo
+Web Developer
+Name:  Emma
+
+Phone:  123-123-1234
+
+Address:  Back Alley
+
+Email:  plates@yahoo.com
+10
+Are you familiar with Bootstrap:  NO
+10
+Do you have a Web Development Portfolio:  NO
+8
+Are you familiar with Ruby:  NO
+5
+Are you a good team player:  NO
+2
+Do you wear glasses:  YES

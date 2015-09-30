@@ -1,0 +1,19 @@
+snapple
+Web Developer
+Name:  Josue
+
+Phone:  5039149375
+
+Address: 676 SE 5th Ave Canby, OR 97013
+
+Email: myboots@gmail.com
+10
+Are you familiar with Bootstrap: NO
+10
+Do you have a Web Development Portfolio:  NO
+8
+Are you familiar with Ruby: YES
+5
+Are you a good team player:  NO
+2
+Do you wear glasses:  YES

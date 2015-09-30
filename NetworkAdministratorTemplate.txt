@@ -1,0 +1,17 @@
+Name: 
+
+Phone: 
+
+Address: 
+
+Email: 
+10
+Do you know the terms LAN and WAN: 
+10
+Do you have great customer service: 
+9
+Are you CCNA certified: 
+8
+Are you CCNP certified: 
+7
+Can you explain technical terms in layman's terms: 

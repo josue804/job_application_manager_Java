@@ -1,0 +1,19 @@
+puppies
+Web Developer
+Name:  John
+
+Phone:  999-999-9990
+
+Address:  123-581-321
+
+Email:  john@john.john
+10
+Are you familiar with Bootstrap:  YES
+10
+Do you have a Web Development Portfolio:  YES
+8
+Are you familiar with Ruby:  YES
+5
+Are you a good team player:  YES
+2
+Do you wear glasses:  YES
